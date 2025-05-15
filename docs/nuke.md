@@ -4,10 +4,9 @@
 
 | Тип гранаты | Назначение / Позиция         | Видео |
 |-------------|------------------------------|-------|
-| Смок        | Window                       | [Смотреть](https://youtu.be/link1) |
-| Смок        | Jungle / Connector           | [Смотреть](https://youtu.be/link2) |
-| Молотов     | Underpass / Short push deny  | [Смотреть](https://youtu.be/link3) |
-| Флеш        | A site entry (popflash)      | [Смотреть](https://youtu.be/link4) |
+| Смок        | Outside lineup               | [![Смотреть](https://img.youtube.com/vi/XsW2IyIreAw/0.jpg)](https://www.youtube.com/shorts/XsW2IyIreAw) |
+| Full setup  | A site T side                | [![Смотреть](https://img.youtube.com/vi/lDaFxIuP9Qs/0.jpg)](https://www.youtube.com/shorts/lDaFxIuP9Qs) |
+
 
 ## 📌 Стратегии
 
