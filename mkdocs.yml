@@ -1,0 +1,45 @@
+site_name: Актуальный раскид cs2
+site_description: Раскид на всех картах cs2
+site_author: armitageee
+site_url: https://armitageee.github.io/cs2-raskid/
+
+repo_url: https://github.com/armitageee/cs2-raskid
+repo_name: armitageee/cs2-raskid
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - content.action.edit
+
+nav:
+  - 📘 Главная: index.md
+  - 🛠️ Inferno: inferno.md
+  - 🛠️ Train: train.md
+  - 🛠️ Mirage: mirage.md
+  - 🛠️ Ancient: ancient.md
+  - 🛠️ Dust 2: dust2.md
+  - 🛠️ Anubis: anubis.md
+  - 🛠️ Nuke: nuke.md
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - footnotes
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/armitageee/cs2-raskid
