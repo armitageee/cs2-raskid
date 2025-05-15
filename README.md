@@ -19,7 +19,7 @@
 │   ├── train.md
 │   └── index.md                # Главная страница
 ├── mkdocs.yml                  # Конфигурация MkDocs
-└── README.md                   # Этот файл
+└── README.md
 ```
 
 ---
