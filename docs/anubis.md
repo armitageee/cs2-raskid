@@ -16,12 +16,11 @@
 -   :material-eye-outline:{ .lg .middle } __Default__  
     ---  
     Дефолтные раунды.  
-    [:octicons-video-24: Смотреть видео](https://www.youtube.com/watch?v=vqYmN7ViqCY&ab_channel=wizla)
+    [:octicons-video-24: Смотреть видео](https://www.youtube.com/watch?v=vqYmN7ViqCY)
 
 -   :material-run-fast:{ .lg .middle } __Fast B Execute__  
     ---  
     B execute.  
-    [:octicons-video-24: Смотреть видео](https://www.youtube.com/watch?v=kpmh_-j3RQ4&ab_channel=DoWorrk)
-
+    [:octicons-video-24: Смотреть видео](https://www.youtube.com/watch?v=kpmh_-j3RQ4)
 
 </div>
