@@ -11,4 +11,4 @@
 
 ## 📌 Стратегии
 
-- **Default:** стрелять по одной.
+- **Default:** [![Смотреть](https://img.youtube.com/vi/vqYmN7ViqCY/0.jpg)](https://www.youtube.com/watch?v=vqYmN7ViqCY&ab_channel=wizla)
