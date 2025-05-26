@@ -16,9 +16,22 @@ theme:
     - content.code.copy
     - content.action.edit
 
+
+  palette: 
+
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
 nav:
   - 📘 Главная: index.md
-  - 🛠️ Inferno: inferno.md
+  - 👨‍🦽‍➡️ Inferno: inferno.md
   - 🛠️ Train: train.md
   - 🛠️ Mirage: mirage.md
   - 🛠️ Ancient: ancient.md
@@ -26,8 +39,8 @@ nav:
   - 🛠️ Anubis: anubis.md
   - 🛠️ Nuke: nuke.md
 
-
 markdown_extensions:
+  - md_in_html
   - admonition
   - codehilite
   - toc:
@@ -35,6 +48,9 @@ markdown_extensions:
   - tables
   - attr_list
   - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_css:
   - stylesheets/extra.css
