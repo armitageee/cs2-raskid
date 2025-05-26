@@ -13,19 +13,19 @@
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Default__
+-   :material-clock-fast:{ .lg .middle } __НА ПОЛ ФЁДОРА__
 
     ---  
 
     !!! tip "ЭТО БАЗА" 
-    [:octicons-video-24: Смотреть видео](https://www.youtube.com/watch?v=vqYmN7ViqCY)
+    [![ВАЗЕЛИНОВОЕ ДРИСЛО](assets/na_pol_fedora.png)](https://www.youtube.com/watch?v=vqYmN7ViqCY)
 
--   :simple-counterstrike:{ .lg .middle } __Fast B Execute__  
+-   :simple-counterstrike:{ .lg .middle } __10К ДАМАГА НА БАБАХЕ__  
 
     ---  
     
-    !!! example "B EXECUTE"  
-    [:octicons-video-24: Смотреть видео](https://www.youtube.com/watch?v=kpmh_-j3RQ4)
+    !!! example "СЮДА ИДИ ВЫВОЛОЧЬ"  
+    [![ПОБРЕЙ БОБРА](assets/derzhi_glaza.png)](https://www.youtube.com/watch?v=kpmh_-j3RQ4)
 
 
 

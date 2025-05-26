@@ -10,4 +10,17 @@
 
 ## 📌 Стратегии
 
-- **Mid:** [Зырить](https://www.youtube.com/watch?v=DoCkZjJD4G8&ab_channel=wizla)
+<div class="grid cards" markdown>
+
+-   :material-clock-fast:{ .lg .middle } __БАМБАШКА НА МИДЕ__
+
+    ---  
+
+    !!! tip "ВАЗЕЛИНОВЫЙ ШЕРШАВЧИК" 
+    [![БАМБАШКА](assets/dezdemona.png)](https://www.youtube.com/watch?v=DoCkZjJD4G8&ab_channel=wizla)
+
+
+
+
+
+</div>
