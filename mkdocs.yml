@@ -28,6 +28,7 @@ nav:
 
 
 markdown_extensions:
+  - md_in_html
   - admonition
   - codehilite
   - toc:

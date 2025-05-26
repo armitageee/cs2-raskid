@@ -11,11 +11,17 @@
 
 ## 📌 Стратегии
 
-:::{.grid}
--   📌 **Default**  
-    Контроль карты в начале раунда, удержание позиций.  
-    [🎥 Смотреть видео](https://www.youtube.com/watch?v=vqYmN7ViqCY&ab_channel=wizla)
--   🚀 **Fast B Execute**  
-    Смоки, молотовы и быстрый выход под флешки на точку B.  
-    [🎥 Смотреть видео](https://www.youtube.com/watch?v=kpmh_-j3RQ4&ab_channel=DoWorrk)
-:::
+<div class="grid cards" markdown>
+
+-   :material-eye-outline:{ .lg .middle } __Default__  
+    ---  
+    Дефолтные раунды.  
+    [:octicons-video-24: Смотреть видео](https://www.youtube.com/watch?v=vqYmN7ViqCY&ab_channel=wizla)
+
+-   :material-run-fast:{ .lg .middle } __Fast B Execute__  
+    ---  
+    B execute.  
+    [:octicons-video-24: Смотреть видео](https://www.youtube.com/watch?v=kpmh_-j3RQ4&ab_channel=DoWorrk)
+
+
+</div>
