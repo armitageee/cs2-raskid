@@ -30,8 +30,17 @@ theme:
         bug: octicons/bug-16
         example: octicons/beaker-16
         quote: octicons/quote-16
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: light blue
+    - scheme: slate
+      primary: deep purple
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Переключиться на тёмную тему
 
-        
 nav:
   - 📘 Главная: index.md
   - 🛠️ Inferno: inferno.md
