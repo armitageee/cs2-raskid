@@ -4,8 +4,8 @@
 
 | Тип гранаты | Назначение / Позиция         | Видео |
 |-------------|------------------------------|-------|
-| HE   :bomb:{ .heart }              | Stairs lineup               | [![Смотреть](https://img.youtube.com/vi/T6KBfBGPAAk/0.jpg)](https://www.youtube.com/shorts/T6KBfBGPAAk) |
-| Smoke + Molotov :cocktail:{ .molotov } | B site execute              | [![Смотреть](https://img.youtube.com/vi/zXGu_dEAow4/0.jpg)](https://www.youtube.com/shorts/zXGu_dEAow4) |
+| HE   :bomb:{ .heart }              | Stairs lineup               | [![Смотреть](assets/egor_anubis.png)](https://www.youtube.com/shorts/T6KBfBGPAAk) |
+| Smoke + Molotov :cocktail:{ .molotov } | B site execute              | [![Смотреть](assets/ogon_po_hutoru.png)](https://www.youtube.com/shorts/zXGu_dEAow4) |
 | Smoke :material-smoking-pipe:{ .smoke }           | A site setup                | [![Смотреть](https://img.youtube.com/vi/SYqeS46zVnM/0.jpg)](https://www.youtube.com/shorts/SYqeS46zVnM) |
 
 
