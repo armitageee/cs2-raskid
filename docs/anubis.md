@@ -11,4 +11,11 @@
 
 ## 📌 Стратегии
 
-- **Default:** [![Смотреть](https://img.youtube.com/vi/vqYmN7ViqCY/0.jpg)](https://www.youtube.com/watch?v=vqYmN7ViqCY&ab_channel=wizla)
+:::{.grid}
+-   📌 **Default**  
+    Контроль карты в начале раунда, удержание позиций.  
+    [🎥 Смотреть видео](https://www.youtube.com/watch?v=vqYmN7ViqCY&ab_channel=wizla)
+-   🚀 **Fast B Execute**  
+    Смоки, молотовы и быстрый выход под флешки на точку B.  
+    [🎥 Смотреть видео](https://www.youtube.com/watch?v=kpmh_-j3RQ4&ab_channel=DoWorrk)
+:::
